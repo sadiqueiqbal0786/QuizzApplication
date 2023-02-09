@@ -1,0 +1,10 @@
+MC:What is the default value of an instance variable in Java?:null,0,False,None Of the above:3
+TF:Java supports multiple inheritance?:false
+MC:What is the difference between instance variable and class variable in Java?:Instance variable has only one value for all objects of the class, while class variable has different values for each object of the class.,Class variable has only one value for all objects of the class, while instance variable has different values for each object of the class.,Instance variable can be declared as static, while class variable cannot.,Both (0) and (2).:1
+TF:In Java, a constructor must have a return type?:false
+MC:How do you declare a static method in Java?:void methodName(),void static methodName(),static void methodName(),None of the above:2
+MC:Which of the following is a correct way to declare an array in Java?: int [] arr = new int[5];, int arr[] = new int[5];,Both (a) and (b),None of the above:2
+TF:In Java, all objects are created on the heap.:true
+TF:The synchronized keyword can be used to declare a class in Java.:false
+TF:Java supports operator overloading.:False
+MC:What is the correct way to create an object in Java?: ClassName obj = new ClassName();,new ClassName obj = new ClassName();,obj ClassName = new ClassName();,None of the above:0

@@ -2,6 +2,18 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
+/*
+* ---------------------------------------------------------------------
+* Owner - Sadique Iqbal                                               |
+* B.Tech - Lovely Professional University                             |
+* This code can use by anyone, hence, not restricted.                 |
+* Creating this project for my class assignment.                      |
+* Project is working fine.                                            |
+* Concept used full oops , enums and all java basics concept.         |
+* To know more please refer read.md file.                             |
+* Thankyou                                                            |
+* ---------------------------------------------------------------------
+* */
 
 //creating an abstract class for Question representation.
 abstract class Question {

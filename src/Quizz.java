@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
-/*
+/**
 * ---------------------------------------------------------------------
 * Owner - Sadique Iqbal                                               |
 * B.Tech - Lovely Professional University                             |
@@ -93,9 +93,9 @@ enum Grade {
     // constant B with a lower bound of 80 and upper bound of 89
     C("C", 70, 79),
     // constant C with a lower bound of 70 and upper bound of 79
-    D("D", 60, 69),
+    D("D", 40, 69),
     // constant D with a lower bound of 60 and upper bound of 69
-    F("F", 0, 59);
+    F("F", 0, 39);
     // constant F with a lower bound of 0 and upper bound of 59
 
     private final String grade;

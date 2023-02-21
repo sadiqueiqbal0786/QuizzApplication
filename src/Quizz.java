@@ -11,7 +11,7 @@ import java.util.Scanner;
 * Project is working fine.                                            |
 * Concept used full oops , enums and all java basics concept.         |
 * To know more please refer read.md file.                             |
-* Thankyou                                                            |
+* Thank you                                                           |
 * ---------------------------------------------------------------------
 * */
 
